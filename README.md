@@ -1,6 +1,4 @@
-# MedSegRef
-
-References on medical image segmentation
+## References on medical image segmentation
 
 Date	| First Author	| Title	| Conference/Journal
 ---- |-----------| --------------------| -------------
